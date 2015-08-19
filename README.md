@@ -5,7 +5,7 @@ Copy text to your clipboard
 
 1. Run `npm install react-native-pasteboard --save`
 2. Open your project in XCode, right click on your project and click `Add Files to "Your Project Name"`
-3. Add `RCTPasteBoard` from your `node_modules/react-native-orientation` folder.
+3. Add `RCTPasteBoard` from your `node_modules/react-native-pasteboard` folder.
 4. Whenever you want to use it within React Native code now you can:
 `var PasteBoard = require('react-native-pasteboard');`
 
