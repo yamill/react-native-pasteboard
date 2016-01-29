@@ -1,6 +1,9 @@
 ## react-native-pasteboard
 Copy text to your clipboard
 
+<strong>**Update**</strong>
+This is now supported out of the box in React-Native. You no longer need this module. I'll leave it up here just for history :)
+
 ### Add it to your project
 
 1. Run `npm install react-native-pasteboard --save`
