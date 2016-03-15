@@ -16,6 +16,8 @@ This is now supported out of the box in React-Native. You no longer need this mo
 ## Usage
 
 ```javascript
+var PasteBoard = require('react-native-pasteboard');
+
 PasteBoard.copyText('Hello world!' , (callback) => {
   AlertIOS.alert('Alert', 'Link copied to clipboard!');
 });
